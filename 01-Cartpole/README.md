@@ -1,5 +1,5 @@
 # Project 01 - Cartpole
-[Youtube Tutorial] \ 
+[Youtube Tutorial] \
 https://www.youtube.com/watch?v=cO5g5qLrLSo&t=804s\
 
 [Setup Custom Env in Gym] \
