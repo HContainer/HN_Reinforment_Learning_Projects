@@ -6,11 +6,11 @@ This is a git hub to record the RL projects and useful information in my self le
   https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521 
 
 ## Self-Learning Projects
-| Project | Description |
+| NO. |Project | Description |
 | ------------- | ------------- |
-|[Project 01 - Carpole](01-Cartpole)| Open AI |
-|[Project 02 - LunarLander](02-LunarLander)| Open AI |
-|[Project 03 - Taxi-v3](03-Taxi)|Open AI |
+|01 | [Carpole](01-Cartpole)| Open AI |
+|02 | [LunarLander](02-LunarLander)| Open AI |
+|03 | [Taxi-v3](03-Taxi)|Open AI |
 
 ## Libraries
   [Gym]\
