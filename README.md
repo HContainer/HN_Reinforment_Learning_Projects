@@ -35,6 +35,6 @@ This is a git hub to record the RL projects and useful information in my self le
   [Reinforcement Learning Methods and Turtorials]\
   https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/ \
  
-  [强化學習--从DQN到PPO， 流程詳解]\
+  [强化學習--從DQN到PPO， 流程詳解]\
   https://zhuanlan.zhihu.com/p/62225540
 
