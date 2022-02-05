@@ -23,7 +23,7 @@ This is a git hub to record the RL projects and useful information in my self le
   https://stable-baselines.readthedocs.io/en/master/
 
 ## Useful Materials
-### Setup
+### Custom Environment in OpenAI Gym
   [Setup Custom Env in Gym]\
   https://www.youtube.com/watch?v=cxMuWd83fI8 \
   https://www.youtube.com/watch?v=kd4RrN-FTWY
@@ -31,8 +31,10 @@ This is a git hub to record the RL projects and useful information in my self le
   [Beginner's Guide to Custom Environemtns in OpenAI's Gym]\
   https://towardsdatascience.com/beginners-guide-to-custom-environments-in-openai-s-gym-989371673952
 
-### Alogrithm 
+### RL Alogrithm 
   [Reinforcement Learning Methods and Turtorials]\
   https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/ \
+ 
+  [强化學習--从DQN到PPO， 流程詳解]\
   https://zhuanlan.zhihu.com/p/62225540
 
