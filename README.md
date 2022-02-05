@@ -6,7 +6,7 @@ This is a git hub to record the RL project and useful information in my self lea
   https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521 
 
 ## Toy Projects
-  [Project 01 - Carpole in OpenAI]\
+  [Project 01 - Carpole in OpenAI] (./01 Carpole) \
   https://www.youtube.com/watch?v=cO5g5qLrLSo&t=804s\ \
   https://github.com/nicknochnack/TensorflowKeras-ReinforcementLearning
 
@@ -26,7 +26,7 @@ This is a git hub to record the RL project and useful information in my self lea
 
   [Stable Baseline]\
   https://stable-baselines.readthedocs.io/en/master/
-  
+
 ## Reading Materials
 ### Setup
   [Setup Custom Env in Gym]\
