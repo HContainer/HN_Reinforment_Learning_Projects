@@ -1,16 +1,17 @@
 # Reinforcement Learning Project
 This is a git hub to record the RL projects and useful information in my self learning path on Reinforcement Learnings
 
-## Project Ideas
-  [15 RL Project Ideas]\
-  https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521 
-
 ## Self-Learning Projects
 | No. | Project | Description | Alogrithm | RL Library |
 | --- | ------- | ----------- | --------- | ---------- |
 | 01 | [Cartpole](01-Cartpole)| Toy Env from OpenAI + Trial on custom Env| DQN | Keras-RL |
 | 02 | [LunarLander](02-LunarLander)| Toy Env from OpenAI | ACER | Stable Baseline | 
 | 03 | [Taxi](03-Taxi)|Toy Env from OpenAI | Q learning | Manual Written |
+
+## Project Ideas
+  [15 RL Project Ideas]\
+  https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521 
+
 
 ## Libraries
   [OpenAI Gym]\
