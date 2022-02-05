@@ -8,9 +8,9 @@ This is a git hub to record the RL projects and useful information in my self le
 ## Self-Learning Projects
 | No. | Project | Description | Alogrithm |
 | --- | ------- | ----------- | ----------- |
-| 01 | [Carpole](01-Cartpole)| Toy Environment from Open AI + Trial on custom Env| DQN from Keras-RL |
-| 02 | [LunarLander](02-LunarLander)| Open AI | ACER from Stable Baseline | 
-| 03 | [Taxi-v3](03-Taxi)|Open AI | Q learning Manual Written
+| 01 | [Carpole](01-Cartpole)| Toy Env from Open AI \ + Trial on custom Env| DQN from Keras-RL |
+| 02 | [LunarLander](02-LunarLander)| Toy Env from Open AI | ACER from Stable Baseline | 
+| 03 | [Taxi](03-Taxi)|Toy Env from Open AI | Q learning Manual Written
 
 ## Libraries
   [Gym]\
