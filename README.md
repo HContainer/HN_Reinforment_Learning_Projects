@@ -5,7 +5,7 @@ This is a git hub to record the RL project and useful information in my self lea
   [15 RL Project Ideas]\
   https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521 
 
-## Toy Projects
+## Toy Projectsss
   **[Project 01 - Carpole in OpenAI](01-Cartpole)** \
   https://www.youtube.com/watch?v=cO5g5qLrLSo&t=804s\ \
   https://github.com/nicknochnack/TensorflowKeras-ReinforcementLearning
