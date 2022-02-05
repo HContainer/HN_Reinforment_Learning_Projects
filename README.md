@@ -8,12 +8,12 @@ This is a git hub to record the RL projects and useful information in my self le
 ## Self-Learning Projects
 | No. | Project | Description | Alogrithm |
 | --- | ------- | ----------- | ----------- |
-| 01 | [Carpole](01-Cartpole)| Toy Env from Open AI \ + Trial on custom Env| DQN from Keras-RL |
-| 02 | [LunarLander](02-LunarLander)| Toy Env from Open AI | ACER from Stable Baseline | 
-| 03 | [Taxi](03-Taxi)|Toy Env from Open AI | Q learning Manual Written
+| 01 | [Carpole](01-Cartpole)| Toy Env from OpenAI + Trial on custom Env| DQN from Keras-RL |
+| 02 | [LunarLander](02-LunarLander)| Toy Env from OpenAI | ACER from Stable Baseline | 
+| 03 | [Taxi](03-Taxi)|Toy Env from OpenAI | Q learning Manual Written
 
 ## Libraries
-  [Gym]\
+  [OpenAI Gym]\
   https://gym.openai.com/docs/
 
   [Keras RL]\
@@ -32,7 +32,7 @@ This is a git hub to record the RL projects and useful information in my self le
   https://towardsdatascience.com/beginners-guide-to-custom-environments-in-openai-s-gym-989371673952
 
 ### Alogrithm 
-  [Reinforment Learnign Methods and Turtorials]\
-  https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/
+  [Reinforcement Learning Methods and Turtorials]\
+  https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/ \
   https://zhuanlan.zhihu.com/p/62225540
 
