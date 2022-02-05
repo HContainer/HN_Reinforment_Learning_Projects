@@ -11,9 +11,7 @@ https://keras-rl.readthedocs.io/en/latest/
 [Stable Baseline]
 https://stable-baselines.readthedocs.io/en/master/
 
-
-
---------------Learning Materials---------------------
+## Learning Materials
 #Setup
 [Setup Custom Env in Gym]
 https://www.youtube.com/watch?v=cxMuWd83fI8
@@ -27,11 +25,11 @@ https://towardsdatascience.com/beginners-guide-to-custom-environments-in-openai-
 https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/
 https://zhuanlan.zhihu.com/p/62225540
 
----------------Project Idea--------------------
+## Project Idea
 [15 RL Project Ideas]
 https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521
 
----------------Project------------------------
+## Project
 [Project 01 - Carpole in OpenAI]
 https://www.youtube.com/watch?v=cO5g5qLrLSo&t=804s
 https://github.com/nicknochnack/TensorflowKeras-ReinforcementLearning
