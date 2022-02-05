@@ -6,15 +6,15 @@ This is a git hub to record the RL project and useful information in my self lea
   https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521 
 
 ## Toy Projects
-  *[Project 01 - Carpole in OpenAI](01-Cartpole) \
+  **[Project 01 - Carpole in OpenAI](01-Cartpole)** \
   https://www.youtube.com/watch?v=cO5g5qLrLSo&t=804s\ \
   https://github.com/nicknochnack/TensorflowKeras-ReinforcementLearning
 
-  *[Project 02 - LunarLander in OpenAI](02-LunarLander)\
+  **[Project 02 - LunarLander in OpenAI](02-LunarLander)** \
   https://www.youtube.com/watch?v=nRHjymV2PX8&t=1230s \
   https://github.com/nicknochnack/StableBaselinesRL
 
-  *[Project 03 - Taxi-v3 in OpenAI]\
+  **[Project 03 - Taxi-v3 in OpenAI](03-Taxi)** \
   https://www.youtube.com/watch?v=q2ZOEFAaaI0
 
 ## Libraries
