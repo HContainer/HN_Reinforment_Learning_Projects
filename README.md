@@ -5,10 +5,10 @@ This is a git hub to record the RL projects and useful information in my self le
   [15 RL Project Ideas]\
   https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521 
 
-## Toy Projects
+## Self-Learning Projects
   **[Project 01 - Carpole in OpenAI](01-Cartpole)** \
   **[Project 02 - LunarLander in OpenAI](02-LunarLander)** \
-  **[Project 03 - Taxi-v3 in OpenAI](03-Taxi)** \
+  **[Project 03 - Taxi-v3 in OpenAI](03-Taxi)**
 
 ## Libraries
   [Gym]\
@@ -20,7 +20,7 @@ This is a git hub to record the RL projects and useful information in my self le
   [Stable Baseline]\
   https://stable-baselines.readthedocs.io/en/master/
 
-## Reading Materials
+## Useful Materials
 ### Setup
   [Setup Custom Env in Gym]\
   https://www.youtube.com/watch?v=cxMuWd83fI8 \
