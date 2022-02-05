@@ -1,18 +1,18 @@
 # Reinforcement Learning Project
-This is a git hub to record the RL project and useful information in my self learning path on Reinforcement Learning 
+This is a git hub to record the RL project and useful information in my self learning path on Reinforcement Learnings
 
-## Library
+## Libraries
 [Getting Started with Gym]
 https://gym.openai.com/docs/
 
-[Keras-RL Documentation]
-https://keras-rl.readthedocs.io/en/latest/
+[Keras-RL Documentation]  
+  https://keras-rl.readthedocs.io/en/latest/
 
-[Stable Baseline]
-https://stable-baselines.readthedocs.io/en/master/
+[Stable Baseline]  
+  https://stable-baselines.readthedocs.io/en/master/
 
 ## Learning Materials
-#Setup
+### Setup
 [Setup Custom Env in Gym]
 https://www.youtube.com/watch?v=cxMuWd83fI8
 https://www.youtube.com/watch?v=kd4RrN-FTWY
@@ -20,10 +20,11 @@ https://www.youtube.com/watch?v=kd4RrN-FTWY
 [Beginner's Guide to Custom Environemtns in OpenAI's Gym]
 https://towardsdatascience.com/beginners-guide-to-custom-environments-in-openai-s-gym-989371673952
 
-#Alogrithm 
+### Alogrithm 
 [Reinforment Learnign Methods and Turtorials]
 https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/
 https://zhuanlan.zhihu.com/p/62225540
+
 
 ## Project Idea
 [15 RL Project Ideas]
