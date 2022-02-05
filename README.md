@@ -2,14 +2,14 @@
 This is a git hub to record the RL project and useful information in my self learning path on Reinforcement Learnings
 
 ## Libraries
-[Gym] \
-https://gym.openai.com/docs/ \
+* Gym
+https://gym.openai.com/docs/
 
-[Keras RL]\
-https://keras-rl.readthedocs.io/en/latest/ \
+* Keras RL
+https://keras-rl.readthedocs.io/en/latest/
 
-[Stable Baseline] \
-https://stable-baselines.readthedocs.io/en/master/ \
+* Stable Baseline
+https://stable-baselines.readthedocs.io/en/master/
 
 ## Learning Materials
 ### Setup
