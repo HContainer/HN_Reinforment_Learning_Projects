@@ -32,7 +32,7 @@ This is a git hub to record the RL project and useful information in my self lea
 
 ## Projects
   [Project 01 - Carpole in OpenAI]\
-  https://www.youtube.com/watch?v=cO5g5qLrLSo&t=804s\
+  https://www.youtube.com/watch?v=cO5g5qLrLSo&t=804s\ \
   https://github.com/nicknochnack/TensorflowKeras-ReinforcementLearning
 
   [Project 02 - LunarLander in OpenAI]\
