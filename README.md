@@ -1,7 +1,7 @@
 # Reinforcement Learning Project
-This is a git hub to record the RL project I had tried in my self learning path on Reinforcement Learning 
+This is a git hub to record the RL project and useful information in my self learning path on Reinforcement Learning 
 
-----------------Library------------------------
+## Library
 [Getting Started with Gym]
 https://gym.openai.com/docs/
 
