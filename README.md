@@ -17,7 +17,7 @@ This is a git hub to record the RL projects and useful information in my self le
   [OpenAI-Gym]\
   https://gym.openai.com/docs/
   
-  [OpenAI-Algorithms-Spinning UP]
+  [OpenAI-Algorithms-Spinning Up] \
   https://spinningup.openai.com/en/latest/user/introduction.html
 
   [Keras RL]\
