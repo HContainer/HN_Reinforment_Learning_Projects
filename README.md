@@ -1,5 +1,5 @@
 # HN_Reinforcement Learning Projects
-This is a git hub to record the RL projects and useful information in my self-learning path on Reinforcement Learning
+This is a repository to record the RL projects and useful information in my self-learning path on Reinforcement Learning
 
 ## Self-Learning Projects
 | No. | Project | Description | Alogrithm | RL Library |
