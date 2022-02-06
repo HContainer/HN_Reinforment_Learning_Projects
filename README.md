@@ -10,7 +10,7 @@ This is a repository to record the RL projects and useful information in my self
 
 ## Real World Projects
 | No. | Year | Project | Description | Alogrithm | RL Library | Status | 
-| --- | Year | ------- | ----------- | --------- | ---------- | ------ |
+| --- | ---- | ------- | ----------- | --------- | ---------- | ------ |
 | 01 | 2021 - Present |[AI-driven MEP Plantroom [Source Code Confidential]]()| Using RL attempts to automate the service routinge in Mechanical Plantroom, which is one of the world challenges problem in construction industry| PPO and POCA| Unity ML-agent | Concept Proof Succeed | 
 
 ## Project Ideas
