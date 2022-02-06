@@ -1,6 +1,6 @@
 # Project 03 - AWS DeepRacer
 This is an online racer game with RL kits from Amazon for developer to test on automonus racing \
-[AWS DeepRacer HomePage] \ 
+[AWS DeepRacer HomePage] \
 https://aws.amazon.com/deepracer/?nc=sn&loc=0
 
 [Documentation]
