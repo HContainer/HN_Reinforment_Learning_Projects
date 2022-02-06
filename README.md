@@ -8,7 +8,7 @@ This is a repository to record the RL projects and useful information in my self
 | 02 | 2022 |[LunarLander](02-LunarLander)| Toy Env from OpenAI | ACER | Stable Baseline |
 | 03 | 2022 |[Taxi](03-Taxi)|Toy Env from OpenAI | Q learning | Manual Written |
 
-## Real World Projects
+## Real-World Projects
 | No. | Year | Project | Description | Alogrithm | RL Library | Status | 
 | --- | ---- | ------- | ----------- | --------- | ---------- | ------ |
 | 01 | 2021 - Present |[AI-driven MEP Plantroom [Source Code Confidential]]()| Using RL attempts to automate the service routinge in Mechanical Plantroom, which is one of the world challenges problem in construction industry| PPO and POCA| Unity ML-agent | Concept Proof Succeed | 
