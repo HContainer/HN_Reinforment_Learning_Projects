@@ -14,8 +14,11 @@ This is a git hub to record the RL projects and useful information in my self le
 
 
 ## Libraries
-  [OpenAI Gym]\
+  [OpenAI-Gym]\
   https://gym.openai.com/docs/
+  
+  [OpenAI-Algorithms-Spinning UP]
+  https://spinningup.openai.com/en/latest/user/introduction.html
 
   [Keras RL]\
   https://keras-rl.readthedocs.io/en/latest/
