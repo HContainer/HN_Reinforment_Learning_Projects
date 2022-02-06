@@ -2,16 +2,16 @@
 This is a repository to record the RL projects and useful information in my self-learning path on Reinforcement Learning
 
 ## Self-Learning Projects
-| No. | Project | Description | Alogrithm | RL Library | Year |
-| --- | ------- | ----------- | --------- | ---------- | ---- |
-| 01 | [Cartpole](01-Cartpole)| Toy Env from OpenAI + Trial on custom Env| DQN | Keras-RL | 2022 |
-| 02 | [LunarLander](02-LunarLander)| Toy Env from OpenAI | ACER | Stable Baseline | 2022 |
-| 03 | [Taxi](03-Taxi)|Toy Env from OpenAI | Q learning | Manual Written | 2022 |
+| No. | Year | Project | Description | Alogrithm | RL Library | 
+| --- | ---- | ------- | ----------- | --------- | ---------- |
+| 01 | 2022 |[Cartpole](01-Cartpole)| Toy Env from OpenAI + Trial on custom Env| DQN | Keras-RL |
+| 02 | 2022 |[LunarLander](02-LunarLander)| Toy Env from OpenAI | ACER | Stable Baseline |
+| 03 | 2022 |[Taxi](03-Taxi)|Toy Env from OpenAI | Q learning | Manual Written |
 
 ## Real World Projects
-| No. | Project | Description | Alogrithm | RL Library | Status | Year |
-| --- | ------- | ----------- | --------- | ---------- | ------ | ---- |
-| 01 | [AI-driven MEP Plantroom [Source Code Confidential]]()| Using RL attempts to automate the service routinge in Mechanical Plantroom, which is one of the world challenges problem in construction industry| PPO and POCA| Unity ML-agent | Concept Proof Succeed | 2021 - |
+| No. | Year | Project | Description | Alogrithm | RL Library | Status | 
+| --- | Year | ------- | ----------- | --------- | ---------- | ------ |
+| 01 | 2021 - Present |[AI-driven MEP Plantroom [Source Code Confidential]]()| Using RL attempts to automate the service routinge in Mechanical Plantroom, which is one of the world challenges problem in construction industry| PPO and POCA| Unity ML-agent | Concept Proof Succeed | 
 
 ## Project Ideas
   [15 RL Project Ideas]\
