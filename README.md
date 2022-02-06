@@ -9,9 +9,9 @@ This is a git hub to record the RL projects and useful information in my self-le
 | 03 | [Taxi](03-Taxi)|Toy Env from OpenAI | Q learning | Manual Written |
 
 ## Real World Projects
-| No. | Project | Description | Alogrithm | RL Library | Status | Remark |
-| --- | ------- | ----------- | --------- | ---------- | ------ | ------ |
-| 01 | [AI-driven MEP Plantroom]()| Using RL attempts to automate the service routinge in Mechanical Plantroom, which is one of the world challenges problem in construction industry| PPO and POCA| Unity ML-agent | Concept Proof Succeed | Confidential |
+| No. | Project | Description | Alogrithm | RL Library | Status |
+| --- | ------- | ----------- | --------- | ---------- | ------ | 
+| 01 | [AI-driven MEP Plantroom]()| (Source code confidential) Using RL attempts to automate the service routinge in Mechanical Plantroom, which is one of the world challenges problem in construction industry| PPO and POCA| Unity ML-agent | Concept Proof Succeed |
 
 ## Project Ideas
   [15 RL Project Ideas]\
