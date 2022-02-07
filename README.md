@@ -1,7 +1,7 @@
 # HN_Reinforcement Learning Projects
 This is a repository to record the RL projects and useful information in my self-learning path on Reinforcement Learning
 
-## Self-Learning Projects
+## Toy Projects
 | No. | Year | Project | Description | Alogrithm | RL Library | Status | 
 | --- | ---- | ------- | ----------- | --------- | ---------- | ------ |
 | 01 | 2022 |[Cartpole](01-Cartpole)| Toy Env from OpenAI + Trial on custom Env| DQN | Keras-RL | Done |
