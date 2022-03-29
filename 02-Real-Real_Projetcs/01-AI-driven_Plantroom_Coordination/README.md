@@ -9,7 +9,8 @@
 
 | Any possibility to making use of RL to solve? :thinking::thinking: |
 | :------------------ |
-| :bulb: May be something like a 3D snake game? And mulit-objectives? :snake: |
+| :bulb: May be something like a snake game? But in 3D and mulit-objectives? :snake: |
+| May be super difficult .... :dizzy_face: | 
 |![](GIF/0-Snake_Game.gif)|
 
 | Lets Try :eyes::eyes:|
@@ -74,5 +75,5 @@
 
 
 ### There is still long way ahead for the successful development. :round_pushpin:
-### But it had already made an important small step! :walking:
+### But it had already made an important small step in 6 months! :walking:
 
