@@ -40,7 +40,7 @@
 
 | Clash Avoidance Work |
 | :------------------ | 
-| Able to avoud obstaces no. But...Horizontal obstacles are still suck :sweat::sweat::sweat:|
+| Able to avoud obstaces now. But...Horizontal obstacles are still suck :sweat::sweat::sweat:|
 |![](Image/05-Clash_Avoidance_Work.gif)|
 
 
@@ -69,7 +69,7 @@
 | Not too bad |
 |![](Image/10-3_snakes_untrained.gif)|
 
-| With months of trail & error in part time :calendar::calendar::calendar::calendar::calendar::calendar:|
+| With months of trail & error in after office hour :calendar::calendar::calendar::calendar::calendar::calendar:|
 | :------------------ |
 | :scream: Fainlly! The first plantroom done by AI! :sunglasses::sunglasses:|
 |![](Image/11-First_Plantroom_Done_By_AI.gif)|
@@ -77,6 +77,5 @@
 
 <!-- |![](Image/0-2000_Years_Later.jpg)| -->
 <!-- | :------------------ | -->
-#### There is still long way ahead for the successful development. :round_pushpin:
-#### But it had already made an important small step! :walking:
+### There is still long way ahead for the successful development. :round_pushpin: But it had already made an important small step! :walking:
 
