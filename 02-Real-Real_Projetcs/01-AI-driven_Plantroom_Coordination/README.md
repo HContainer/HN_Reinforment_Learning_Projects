@@ -13,4 +13,10 @@
 | Navigate In 3D Plane |
 | :------------------: | 
 | Another Week of Evolve - This snake can finally swim in 3D |
-|![](GIF/02-Navigate_In_3D_Plane.gif)|
+|![](GIF/03-Navigate_in_3D_plane.gif)|
+
+| Less Bending Work |
+| :------------------: | 
+| The AI start to learn to run with less bending|
+|![](GIF/04-Less_Bending_Work.gif)|
+
