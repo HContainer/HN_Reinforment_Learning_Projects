@@ -20,3 +20,7 @@
 | The AI start to learn to run with less bending|
 |![](GIF/04-Less_Bending_Work.gif)|
 
+| Clash Avoidance Work |
+| :------------------: | 
+| Able to avoud obstaces no. But...Horizontal obstacles are still suck|
+|![](GIF/05-Clash_Avoidance_Work.gif)|
