@@ -1,5 +1,10 @@
  # Project 01 - AI-Coordinated Plantroom
 
-| Before Training |
+| The First Breakthrough |
+| :------------------: |
+|![](GIF/01-The_First_Breakthrough.gif)|
+
+
+| Navigate In Single Plane |
 | :------------------: | 
-|![Before Training](GIF/01-The_First_Breakthrough.gif)|
+|![](GIF/02-Navigate_In_Single_Plane.gif)|
