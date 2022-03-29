@@ -1,5 +1,13 @@
  # Project 01 - AI-Coordinated Plantroom
- ### Source Code Confidential
+ ### [Source Code Confidential]
+
+
+| Complicated Plantroom Coordination....:fearful:|
+| :------------------: |
+| Any possibility to making use of AI to solve |
+|![](GIF/01-The_First_Breakthrough.gif)|
+
+
 
 | The First Breakthrough |
 | :------------------: |
@@ -31,7 +39,7 @@
 
 
 | More Obstacles |
-| :------------------: | 
+| :-----------------------------------------------------------------: | 
 |![](GIF/06-More_Obstacles.gif)|
 
 
@@ -45,15 +53,17 @@
 |![](GIF/08-Possible_for_multi_agents.gif)|
 
 
-| 2 snakes without coordination training |
+| Let's see how 2 snakes behave without any training on coordination |
 | :------------------: |
+| Quite okay |
 |![](GIF/09-2_snakes_untrained.gif)|
 
-| 3 snakes without coordination training |
+| Let's see how 3 snakes behave without any training on coordination |
 | :------------------: |
+| Not too bad |
 |![](GIF/10-3_snakes_untrained.gif)|
 
-| The first plantroom done by AI! |
+| Fainlly! The first plantroom done by AI! |
 | :------------------: |
 | The power of AI|
 |![](GIF/11-First_Plantroom_Done_By_AI.gif)|
