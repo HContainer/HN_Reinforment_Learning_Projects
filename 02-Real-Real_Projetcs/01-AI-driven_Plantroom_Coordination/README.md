@@ -10,7 +10,7 @@
 | Any possibility to making use of RL to solve? :thinking::thinking: |
 | :------------------ |
 | Something like a 3D snake game? And mulit-objectives? :snake: |
-|![](GIF/0-Snake_Game.jpg)|
+|![](GIF/0-Snake_Game.gif)|
 
 | The First Breakthrough! |
 | :------------------ |
