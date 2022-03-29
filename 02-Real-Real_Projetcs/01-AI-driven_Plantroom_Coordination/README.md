@@ -1,5 +1,5 @@
  # Project 01 - AI-Coordinated Plantroom
- ## Source Code Confidential
+ ### Source Code Confidential
 
 | The First Breakthrough |
 | :------------------: |
@@ -32,12 +32,12 @@
 
 | More Obstacles |
 | :------------------: | 
-|![](GIF/06-More_Obscacles.gif)|
+|![](GIF/06-More_Obstacles.gif)|
 
 
 | More Obstacles |
 | :------------------: | 
-|![](GIF/07-More_Obscacles.gif)|
+|![](GIF/07-More_Obstacles.gif)|
 
 
 | Possible to coordinate for Multi-Agents?|
@@ -59,5 +59,5 @@
 |![](GIF/11-First_Plantroom_Done_By_AI.gif)|
 
 
-| Still Long Way To Go |
-| :------------------: |
+# Still Long Way To Go 
+
