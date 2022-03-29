@@ -70,12 +70,10 @@
 
 | With months of trail & error in part time :calendar::calendar::calendar::calendar::calendar::calendar:|
 | :------------------ |
-|![](Image/0-2000_Years_Later.jpg)|
-
-
+<!-- |![](Image/0-2000_Years_Later.jpg)| -->
 | :scream: Fainlly! The first plantroom done by AI! :sunglasses::sunglasses:|
-| :------------------ |
-| The power of AI :scream: |
+<!-- | :------------------ | -->
+| Amazed by The power of AI :scream: |
 |![](Image/11-First_Plantroom_Done_By_AI.gif)|
 
 
