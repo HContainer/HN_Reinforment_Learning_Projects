@@ -13,8 +13,8 @@
 |![](GIF/0-Snake_Game.gif)|
 
 | Lets Try :eyes::eyes:|
-| The First Breakthrough! :scream:|
 | :------------------ |
+| The First Breakthrough! :scream:|
 |![](GIF/01-The_First_Breakthrough.gif)|
 
 
@@ -47,7 +47,7 @@
 |![](GIF/06-More_Obstacles.gif)|
 
 
-| More Obstacles :astonished:|
+| And More Obstacles :astonished:|
 | :------------------ | 
 |![](GIF/07-More_Obstacles.gif)|
 
@@ -57,22 +57,22 @@
 |![](GIF/08-Possible_for_multi_agents.gif)|
 
 
-| Let's see how 2 snakes behave without any training on coordination |
+| Let's see how 2 snakes behave without any training on coordination :snake::snake: |
 | :------------------ |
 | Quite okay |
 |![](GIF/09-2_snakes_untrained.gif)|
 
-| Let's see how 3 snakes behave without any training on coordination |
+| Let's see how 3 snakes behave without any training on coordination :snake::snake::snake: |
 | :------------------ |
 | Not too bad |
 |![](GIF/10-3_snakes_untrained.gif)|
 
-| Fainlly! The first plantroom done by AI! |
+| :scream: Fainlly! The first plantroom done by AI! :sunglasses::sunglasses:|
 | :------------------ |
-| The power of AI|
+| The power of AI :scream: |
 |![](GIF/11-First_Plantroom_Done_By_AI.gif)|
 
 
-### There is still long way ahead for the successful development.
-### But it had already made an important small step! 
+### There is still long way ahead for the successful development. :round_pushpin:
+### But it had already made an important small step! :walking:
 
