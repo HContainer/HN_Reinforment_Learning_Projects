@@ -11,10 +11,10 @@
 | :------------------ |
 | :bulb: May be something like a snake game? :thinking: |
 | But in 3D and mulit-objectives? :snake: |
-| May be super difficult .... :dizzy_face: | 
+| Would that be super difficult to develop?.... :dizzy_face: | 
 |![](Image/0-Snake_Game.gif)|
 
-| May be...Lets Try :eyes::eyes:|
+| Lets try first may be :eyes::eyes:|
 | :------------------ |
 | The First Breakthrough! :scream:|
 |![](Image/01-The_First_Breakthrough.gif)|
@@ -40,7 +40,7 @@
 
 | Clash Avoidance Work |
 | :------------------ | 
-| Able to avoud obstaces now. But...Horizontal obstacles are still suck :sweat::sweat::sweat:|
+| Able to avoid obstacles now. But...Horizontal obstacles are still suck :sweat::sweat::sweat:|
 |![](Image/05-Clash_Avoidance_Work.gif)|
 
 
