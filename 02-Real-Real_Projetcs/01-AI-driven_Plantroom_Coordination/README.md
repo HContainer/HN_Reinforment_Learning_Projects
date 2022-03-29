@@ -1,14 +1,18 @@
  # Project 01 - AI-Coordinated Plantroom
- ### [Source Code Confidential]
+ ### [---Source Code Confidential---]
 
 
 | Complicated Plantroom Coordination....:fearful:|
 | :------------------ |
 |![](GIF/0-Complicated_Plantroom.jpg)|
-| Any possibility to making use of AI to solve? :thinking::thinking: |
 
 
-| The First Breakthrough |
+| Any possibility to making use of RL to solve? :thinking::thinking: |
+| :------------------ |
+| Something like a 3D snake game? And mulit-objectives? :snake: |
+|![](GIF/0-Snake_Game.jpg)|
+
+| The First Breakthrough! |
 | :------------------ |
 |![](GIF/01-The_First_Breakthrough.gif)|
 
@@ -25,25 +29,25 @@
 |![](GIF/03-Navigate_in_3D_plane.gif)|
 
 
-| Less Bending Work |
+| Less Bending Working Now! |
 | :------------------ | 
 | The AI start to learn to run with less bending|
 |![](GIF/04-Less_Bending_Work.gif)|
 
 
 | Clash Avoidance Work |
- :-------------------------------------------------------------------------------------- | 
+ :----------------------------------------------------------------------------------------------------------- | 
 | Able to avoud obstaces no. But...Horizontal obstacles are still suck|
 |![](GIF/05-Clash_Avoidance_Work.gif)|
 
 
 | More Obstacles |
-| :-------------------------------------------------------------------------------------- | 
+| :----------------------------------------------------------------------------------------------------------- | 
 |![](GIF/06-More_Obstacles.gif)|
 
 
 | More Obstacles |
- :-------------------------------------------------------------------------------------- | 
+ :------------------------------------------------------------------------------------------------------------ | 
 |![](GIF/07-More_Obstacles.gif)|
 
 
@@ -68,5 +72,5 @@
 |![](GIF/11-First_Plantroom_Done_By_AI.gif)|
 
 
-# Still Long Way To Go 
+## There is Still long way ahead before successful development. But had already made an important small step! 
 
