@@ -68,6 +68,11 @@
 | Not too bad |
 |![](GIF/10-3_snakes_untrained.gif)|
 
+| With 6 months of trail & error in part time|
+| :------------------ |
+|![](GIF/0-2000_Years_Laterd.gif)|
+
+
 | :scream: Fainlly! The first plantroom done by AI! :sunglasses::sunglasses:|
 | :------------------ |
 | The power of AI :scream: |
