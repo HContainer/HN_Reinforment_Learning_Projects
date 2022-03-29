@@ -12,46 +12,47 @@
 | May be something like a 3D snake game? And mulit-objectives? :snake: |
 |![](GIF/0-Snake_Game.gif)|
 
-| The First Breakthrough! |
+| Lets Try :eyes::eyes:|
+| The First Breakthrough! :scream:|
 | :------------------ |
 |![](GIF/01-The_First_Breakthrough.gif)|
 
 
 | Navigate In Single Plane |
 | :------------------ | 
-| Finally this stupid AI Get smarter...over the weekend |
+| Finally this stupid AI Get smarter:heart_eyes:...over the weekend :worried:|
 |![](GIF/02-Navigate_In_Single_Plane.gif)|
 
 
 | Navigate In 3D Plane |
 | :------------------ | 
-| Another Week of Evolve - This snake can finally swim in 3D |
+| Another Week of Evolve - This snake can finally swim in 3D :sunglasses: |
 |![](GIF/03-Navigate_in_3D_plane.gif)|
 
 
 | Less Bending Working Now! |
 | :------------------ | 
-| The AI start to learn to run with less bending|
+| The AI start to learn to run with less bending :open_mouth:|
 |![](GIF/04-Less_Bending_Work.gif)|
 
 
 | Clash Avoidance Work |
 | :------------------ | 
-| Able to avoud obstaces no. But...Horizontal obstacles are still suck|
+| Able to avoud obstaces no. But...Horizontal obstacles are still suck :sweat::sweat::sweat:|
 |![](GIF/05-Clash_Avoidance_Work.gif)|
 
 
-| More Obstacles |
+| More Obstacles :astonished:|
 | :------------------ | 
 |![](GIF/06-More_Obstacles.gif)|
 
 
-| More Obstacles |
+| More Obstacles :astonished:|
 | :------------------ | 
 |![](GIF/07-More_Obstacles.gif)|
 
 
-| Possible to coordinate for Multi-Agents?|
+| Possible to coordinate for Multi-Agents? :thinking:|
 | :------------------ |
 |![](GIF/08-Possible_for_multi_agents.gif)|
 
