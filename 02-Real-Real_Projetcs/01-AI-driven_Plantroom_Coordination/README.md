@@ -68,7 +68,7 @@
 | Not too bad |
 |![](GIF/10-3_snakes_untrained.gif)|
 
-| With 6 months of trail & error in part time|
+| With months of trail & error in part time :calendar::calendar::calendar::calendar::calendar::calendar:|
 | :------------------ |
 |![](GIF/0-2000_Years_Later.jpg)|
 
@@ -80,5 +80,5 @@
 
 
 ### There is still long way ahead for the successful development. :round_pushpin:
-### But it had already made an important small step in 6 months! :walking:
+### But it had already made an important small step! :walking:
 
