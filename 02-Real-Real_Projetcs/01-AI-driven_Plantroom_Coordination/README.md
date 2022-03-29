@@ -9,7 +9,7 @@
 
 | Any possibility to making use of RL to solve? :thinking::thinking: |
 | :------------------ |
-| May be something like a 3D snake game? And mulit-objectives? :snake: |
+| :bulb: May be something like a 3D snake game? And mulit-objectives? :snake: |
 |![](GIF/0-Snake_Game.gif)|
 
 | Lets Try :eyes::eyes:|
@@ -52,7 +52,7 @@
 |![](GIF/07-More_Obstacles.gif)|
 
 
-| Possible to coordinate for Multi-Agents? :thinking:|
+| Now Next.....How's possible to coordinate for Multi-Agents? :thinking:|
 | :------------------ |
 |![](GIF/08-Possible_for_multi_agents.gif)|
 
