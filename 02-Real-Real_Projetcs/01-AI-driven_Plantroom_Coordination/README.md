@@ -5,7 +5,7 @@
 | Complicated Plantroom Coordination....:fearful:|
 | :------------------: |
 | Any possibility to making use of AI to solve? |
-|![](GIF/0-Complicated_Plantroom)|
+|![](GIF/0-Complicated_Plantroom.jpg)|
 
 
 
@@ -33,18 +33,18 @@
 
 
 | Clash Avoidance Work |
-| :------------------: | 
+ :--------------------------------------------------------------------------------------: | 
 | Able to avoud obstaces no. But...Horizontal obstacles are still suck|
 |![](GIF/05-Clash_Avoidance_Work.gif)|
 
 
 | More Obstacles |
-| :-----------------------------------------------------------------: | 
+| :--------------------------------------------------------------------------------------: | 
 |![](GIF/06-More_Obstacles.gif)|
 
 
 | More Obstacles |
-| :------------------: | 
+ :--------------------------------------------------------------------------------------: | 
 |![](GIF/07-More_Obstacles.gif)|
 
 
