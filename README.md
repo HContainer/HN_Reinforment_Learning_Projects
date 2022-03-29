@@ -10,10 +10,10 @@ This is a repository to record the RL projects and useful information in my self
 | 04 | 2022 |[AWS DeepRacer](01-Toy_Projects/04-AWS_DeepRacer)|Toy Env from Amazon | Varies | Amazon RL kit | Done |
 | 05 | 2022 |[Trading AI](01-Toy_Projects/05-Trading_AI)| GME Data | PPO |Stable Baseline  | Done |
 
-## Real-World Projects
+## Real Projects
 | No. | Year | Project | Description | Alogrithm | RL Library | Status | 
 | --- | ---- | ------- | ----------- | --------- | ---------- | ------ |
-| 01 | 2021 - Present |[AI-Coordinated Plantroom [Source Code Confidential]](01-AI-Coordinated_Plantroom)| Using RL attempts to automate the service routings in Mechanical Plantroom, which is one of the world challenges problem in construction industry| PPO and POCA| Unity ML-agent | Concept Proof Succeed | 
+| 01 | 2021 - Present |[AI-Coordinated Plantroom [Source Code Confidential]](02-Real_Projects/01-AI-Coordinated_Plantroom)| Using RL attempts to automate the service routings in Mechanical Plantroom, which is one of the world challenges problem in construction industry| PPO and POCA| Unity ML-agent | Concept Proof Succeed | 
 
 ## Project Ideas
   [15 RL Project Ideas]\
