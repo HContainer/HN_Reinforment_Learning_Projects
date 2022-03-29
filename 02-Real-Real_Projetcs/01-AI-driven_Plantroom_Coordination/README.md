@@ -9,7 +9,7 @@
 
 | Any possibility to making use of RL to solve? :thinking::thinking: |
 | :------------------ |
-| Something like a 3D snake game? And mulit-objectives? :snake: |
+| May be something like a 3D snake game? And mulit-objectives? :snake: |
 |![](GIF/0-Snake_Game.gif)|
 
 | The First Breakthrough! |
@@ -72,5 +72,6 @@
 |![](GIF/11-First_Plantroom_Done_By_AI.gif)|
 
 
-## There is Still long way ahead before successful development. But had already made an important small step! 
+## There is still long way ahead for the successful development.
+## But it had already made an important small step! 
 
