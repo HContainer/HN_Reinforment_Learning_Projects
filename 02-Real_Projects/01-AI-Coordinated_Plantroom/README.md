@@ -21,7 +21,7 @@
 
 | Navigate In Single Plane |
 | :------------------ | 
-| Finally this stupid AI Get smarter:heart_eyes:...over the weekend :worried:|
+| Finally this stupid AI Get smarter:heart_eyes:...over the weekend |
 |![](Image/02-Navigate_In_Single_Plane.gif)|
 
 
@@ -63,7 +63,7 @@
 | Quite okay |
 |![](Image/09-2_snakes_untrained.gif)|
 
-| Let's see how 3 snakes behave without any training on coordination :snake::snake::snake: |
+| How about 3 snakes? :snake::snake::snake: |
 | :------------------ |
 | Not too bad |
 |![](Image/10-3_snakes_untrained.gif)|
@@ -76,6 +76,6 @@
 
 <!-- |![](Image/0-2000_Years_Later.jpg)| -->
 <!-- | :------------------ | -->
-### There is still long way ahead for the successful development. :round_pushpin:
-### But it had already made an important small step! :walking:
+#### There is still long way ahead for the successful development. :round_pushpin:
+#### But it had already made an important small step! :walking:
 
