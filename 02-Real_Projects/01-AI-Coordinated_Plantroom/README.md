@@ -9,7 +9,7 @@
 
 | Any possibility to making use of RL to solve the plantroom coordination? :thinking::thinking: |
 | :------------------ |
-| :bulb: May be something like a snake game? :thinking|
+| :bulb: May be something like a snake game? :thinking: |
 | But in 3D and mulit-objectives? :snake: |
 | May be super difficult .... :dizzy_face: | 
 |![](Image/0-Snake_Game.gif)|
