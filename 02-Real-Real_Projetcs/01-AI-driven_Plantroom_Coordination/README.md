@@ -13,7 +13,7 @@
 | May be super difficult .... :dizzy_face: | 
 |![](GIF/0-Snake_Game.gif)|
 
-| Lets Try :eyes::eyes:|
+| May be...Lets Try :eyes::eyes:|
 | :------------------ |
 | The First Breakthrough! :scream:|
 |![](GIF/01-The_First_Breakthrough.gif)|
@@ -53,7 +53,7 @@
 |![](GIF/07-More_Obstacles.gif)|
 
 
-| Now Next.....How's possible to coordinate for Multi-Agents? :thinking:|
+| Now Next.....How's possible for the AI to coordinate for Multi-Agents? :thinking:|
 | :------------------ |
 |![](GIF/08-Possible_for_multi_agents.gif)|
 
@@ -70,7 +70,7 @@
 
 | With 6 months of trail & error in part time|
 | :------------------ |
-|![](GIF/0-2000_Years_Laterd.gif)|
+|![](GIF/0-2000_Years_Later.jpg)|
 
 
 | :scream: Fainlly! The first plantroom done by AI! :sunglasses::sunglasses:|
