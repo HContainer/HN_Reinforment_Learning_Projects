@@ -8,7 +8,7 @@ This is a repository to record the RL projects and useful information in my self
 | 02 | 2022 |[LunarLander](01-Toy_Projects/02-LunarLander)| Toy Env from OpenAI | ACER | Stable Baseline | Done |
 | 03 | 2022 |[Taxi](01-Toy_Projects/03-Taxi)|Toy Env from OpenAI | Q learning | Manual Written | Done |
 | 04 | 2022 |[AWS DeepRacer](01-Toy_Projects/04-AWS_DeepRacer)|Toy Env from Amazon | Varies | Amazon RL kit | Done |
-| 05 | 2022 |[Trading AI](01-Toy_Projects/05-Trading_AI)| GME Data | PPO |Stable Baseline  | Done |
+| 05 | 2022 |[Trading AI](01-Toy_Projects/05-Trading_AI)| GME Data | PPO |Stable Baseline  | WIP |
 
 ## Real Projects
 | No. | Year | Project | Description | Alogrithm | RL Library | Status | 
