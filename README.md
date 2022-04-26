@@ -33,9 +33,9 @@ This is a repository to record the RL projects and useful information in my self
   [Stable Baseline]\
   https://stable-baselines.readthedocs.io/en/master/
 
-## Concept
-#### [深度強化學習 - Shusen Wang]
-基本概念 Deep Reinforcement Learning \
+## Concepts
+### 深度強化學習 - Shusen Wang
+[基本概念 Deep Reinforcement Learning] \
 https://www.youtube.com/watch?v=vmkRMvhCW5c
 
 
