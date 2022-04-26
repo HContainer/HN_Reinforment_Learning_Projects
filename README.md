@@ -37,9 +37,8 @@ This is a repository to record the RL projects and useful information in my self
   https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents.md
 
 ## Concepts
-### 深度強化學習 - Shusen Wang
-[基本概念 Deep Reinforcement Learning] \
-https://www.youtube.com/watch?v=vmkRMvhCW5c
+  [深度強化學習 - Shusen Wang] \
+  https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/%E6%B7%B1%E5%BA%A6%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92-%20Shusen%20Wang.md
 
 
 ## Useful Materials
