@@ -34,7 +34,7 @@ This is a repository to record the RL projects and useful information in my self
   https://stable-baselines.readthedocs.io/en/master/
   
   [Unity ML-Agents]\
-  https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/Unity_ML-Agents.md
+  https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents.md
 
 ## Concepts
 ### 深度強化學習 - Shusen Wang
