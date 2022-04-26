@@ -49,3 +49,6 @@ This is a repository to record the RL projects and useful information in my self
   [强化學習--從DQN到PPO， 流程詳解]\
   https://zhuanlan.zhihu.com/p/62225540
 
+### RL Learning Material
+#### 深度強化學習 - Shusen Wang
+https://www.youtube.com/watch?v=vmkRMvhCW5c
