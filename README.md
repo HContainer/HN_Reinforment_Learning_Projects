@@ -19,8 +19,14 @@ This is a repository to record the RL projects and useful information in my self
   [15 RL Project Ideas]\
   https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521 
 
+## Concepts
+  [深度強化學習 - Shusen Wang] \
+  https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/%E6%B7%B1%E5%BA%A6%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92-%20Shusen%20Wang.md
 
 ## Libraries
+  [Unity ML-Agents]\
+  https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents.md
+  
   [OpenAI-Gym]\
   https://gym.openai.com/docs/
   
@@ -32,14 +38,6 @@ This is a repository to record the RL projects and useful information in my self
 
   [Stable Baseline]\
   https://stable-baselines.readthedocs.io/en/master/
-  
-  [Unity ML-Agents]\
-  https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents.md
-
-## Concepts
-  [深度強化學習 - Shusen Wang] \
-  https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/%E6%B7%B1%E5%BA%A6%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92-%20Shusen%20Wang.md
-
 
 ## Useful Materials
 ### Custom Environment in OpenAI Gym
