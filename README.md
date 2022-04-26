@@ -50,5 +50,6 @@ This is a repository to record the RL projects and useful information in my self
   https://zhuanlan.zhihu.com/p/62225540
 
 ### RL Learning Material
-#### 深度強化學習 - Shusen Wang
+#### [深度強化學習 - Shusen Wang]\
+基本概念 Deep Reinforcement Learning \
 https://www.youtube.com/watch?v=vmkRMvhCW5c
