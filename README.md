@@ -33,6 +33,12 @@ This is a repository to record the RL projects and useful information in my self
   [Stable Baseline]\
   https://stable-baselines.readthedocs.io/en/master/
 
+### Concept
+#### [深度強化學習 - Shusen Wang]
+基本概念 Deep Reinforcement Learning \
+https://www.youtube.com/watch?v=vmkRMvhCW5c
+
+
 ## Useful Materials
 ### Custom Environment in OpenAI Gym
   [Setup Custom Env in Gym]\
@@ -49,7 +55,3 @@ This is a repository to record the RL projects and useful information in my self
   [强化學習--從DQN到PPO， 流程詳解]\
   https://zhuanlan.zhihu.com/p/62225540
 
-### RL Learning Material
-#### [深度強化學習 - Shusen Wang]\
-基本概念 Deep Reinforcement Learning \
-https://www.youtube.com/watch?v=vmkRMvhCW5c
