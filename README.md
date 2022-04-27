@@ -28,16 +28,16 @@ This is a repository to record the RL projects and useful information in my self
   https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents.md
 
   [OpenAI-Gym]\
-  https://gym.openai.com/docs/ \
+  https://gym.openai.com/docs/ 
 
   [OpenAI-Algorithms-Spinning Up] \
-  https://spinningup.openai.com/en/latest/user/introduction.html \
+  https://spinningup.openai.com/en/latest/user/introduction.html 
 
   [Keras RL]\
-  https://keras-rl.readthedocs.io/en/latest/ \
+  https://keras-rl.readthedocs.io/en/latest/ 
 
   [Stable Baseline]\
-  https://stable-baselines.readthedocs.io/en/master/ \
+  https://stable-baselines.readthedocs.io/en/master/ 
 
 ## Useful Materials
 ### Custom Environment in OpenAI Gym
