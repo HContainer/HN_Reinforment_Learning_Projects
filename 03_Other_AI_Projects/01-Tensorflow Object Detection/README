@@ -4,14 +4,24 @@ https://github.com/nicknochnack/TFODCourse
 
 
 
-Step 2. Create a new virtual environment
+## Steps
+<br />
+<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<br/><br/>
+<b>Step 2.</b> Create a new virtual environment 
+<pre>
 python -m venv tfod
-
-Step 3. Activate your virtual environment
+</pre> 
+<br/>
+<b>Step 3.</b> Activate your virtual environment
+<pre>
 source tfod/bin/activate # Linux
 .\tfod\Scripts\activate # Windows 
-
-Step 4. Install dependencies and add virtual environment to the Python Kernel
+</pre>
+<br/>
+<b>Step 4.</b> Install dependencies and add virtual environment to the Python Kernel
+<pre>
 python -m pip install --upgrade pip
 pip install ipykernel
-python -m ipykernel install --user --name=tfodj
+python -m ipykernel install --user --name=tfod
+</pre>
