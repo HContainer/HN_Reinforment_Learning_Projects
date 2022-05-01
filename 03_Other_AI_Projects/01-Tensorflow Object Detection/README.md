@@ -47,7 +47,7 @@ https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/03_
 
 ## 4 - Trainig in Colab
 <b>4. Training and Detection.ipynb</b> [Colab] \
-https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/03_Other_AI_Projects/01-Tensorflow%20Object%20Detection/2.%20Training%20and%20Detection.ipynb
+https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/03_Other_AI_Projects/01-Tensorflow%20Object%20Detection/4.%20Training%20and%20Detection.ipynb
 
 ![image](https://user-images.githubusercontent.com/40123599/166135223-2d3bb087-2f8f-42a5-93fd-89666917d4cc.png)
 
