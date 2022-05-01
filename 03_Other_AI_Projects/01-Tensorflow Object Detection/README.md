@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=yqkISICHH-U&t=11444s
 [Git Hub Tutorial]
 https://github.com/nicknochnack/TFODCourse
 
+[LabelImg]
+https://github.com/tzutalin/labelImg
+
+
 ## File Structure
 Clone this repository: https://github.com/nicknochnack/TFODCourse
 <br/><br/>
@@ -48,9 +52,13 @@ cd TFODCourse\Tensorflow\labelimg
 python labelImg.py
 </pre>
 
-2c - Start Labeling
-![image](https://user-images.githubusercontent.com/40123599/166134242-381c64cc-1757-41ce-a502-7b5d4d0a4b9d.png)
+2c - Start Labeling \
+Hotkeys: w - Create a rect box | d -  Next image | a - Previous image
+![image](https://user-images.githubusercontent.com/40123599/166134374-97852a27-350b-496c-8aa3-0bde0a624f32.png)
 
 ### Step 3. Image Labling
 
 ## Trainig
+
+
+
