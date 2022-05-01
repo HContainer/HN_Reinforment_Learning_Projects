@@ -1,8 +1,10 @@
-https://www.youtube.com/watch?v=yqkISICHH-U&t=11554s
+# Project 01 - Tensorflow Object Detection
 
+[Youtube Tutorial]
+https://www.youtube.com/watch?v=yqkISICHH-U&t=11444s
+
+[Git Hub Tutorial]
 https://github.com/nicknochnack/TFODCourse
-
-
 
 ## Steps
 <br />
@@ -23,5 +25,5 @@ source tfod/bin/activate # Linux
 <pre>
 python -m pip install --upgrade pip
 pip install ipykernel
-python -m ipykernel install --user --name=tfod
+python -m ipykernel install --user --name=tfodj
 </pre>
