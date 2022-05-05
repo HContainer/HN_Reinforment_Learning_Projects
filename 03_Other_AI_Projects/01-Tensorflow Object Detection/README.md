@@ -43,13 +43,33 @@ https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/03_
 <b>b - The zipped files of train and test to be uploaded to Colab</b> \
 ![image](https://user-images.githubusercontent.com/40123599/166135029-6f1c387b-5743-419b-b08a-8322298dbab9.png)
 
-## 4 - Training in Colab
-<b>Training and Detection.ipynb</b> [Colab] \
+## 4 - Training and eval in Colab
+<b>a - Training and Detection.ipynb</b> [Colab] \
 https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/03_Other_AI_Projects/01-Tensorflow%20Object%20Detection/4.%20Training%20and%20Detection.ipynb
 
 ![image](https://user-images.githubusercontent.com/40123599/166135223-2d3bb087-2f8f-42a5-93fd-89666917d4cc.png)
 
-## 5 - Import trained model
+## 5 - View Training and Evlalation Graph in TensorBoard 
+<b>a - Training and Detection.ipynb</b> [Colab- After Step 7] \
+https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/03_Other_AI_Projects/01-Tensorflow%20Object%20Detection/4.%20Training%20and%20Detection.ipynb
+
+<b>b- Navigate to train / eval folder in command prompt</b> \
+![image](https://user-images.githubusercontent.com/40123599/166990609-e0b8b6d6-d4a6-4c50-80a1-58a7ff104fd1.png)
+
+<b>c - Run below command</b>
+<pre>
+tensorboard --logdir=.
+</pre>
+
+<b>d - Copy below link in browser</b>
+<pre>
+http://localhost:6006/
+</pre>
+
+<b>[Tensorboard Example]</b>
+![image](https://user-images.githubusercontent.com/40123599/166994295-00db471e-c10a-497d-b4ad-edee5fe2d4d1.png)
+
+## 6 - Import trained model
 <b>a - Training and Detection.ipynb</b> [Colab - Skip Step 3-7] \
 https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/03_Other_AI_Projects/01-Tensorflow%20Object%20Detection/4.%20Training%20and%20Detection.ipynb \
 
