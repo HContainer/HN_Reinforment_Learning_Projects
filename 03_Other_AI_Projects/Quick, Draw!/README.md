@@ -1,5 +1,5 @@
 # Quick, Draw!
-This is a repository collectioning **Quick, Draw!** mateiral for self learning
+This is a repository collectioning **Quick, Draw!** material for self learning
 
 # Offical Material
 **[Officel Website]**
