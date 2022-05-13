@@ -1,7 +1,7 @@
 # Quick, Draw!
 This is a repository collectioning **Quick, Draw!** mateiral for self learning
 
-#
+# Offical Material
 **[Officel Website]**
 https://quickdraw.withgoogle.com/
 ![image](https://user-images.githubusercontent.com/40123599/168306770-b1e55f71-a383-4baa-8523-3c44e97d0071.png)
@@ -11,20 +11,20 @@ https://quickdraw.withgoogle.com/data
 ![image](https://user-images.githubusercontent.com/40123599/168308931-20ab6f92-e8a3-4021-ab41-7bf4ed667015.png)
 
 **[Offical Github]**
-Refer to Code and Tools for other API
-https://github.com/googlecreativelab/quickdraw-dataset
+https://github.com/googlecreativelab/quickdraw-dataset \
+Refer to "Code and tools" Section for other API
 ![image](https://user-images.githubusercontent.com/40123599/168308649-800a4dfe-79b7-491d-9267-487851850618.png)
 
 ## Tutorial
 **[Offical Tutorial - RNN network]** \
 https://github.com/tensorflow/docs/blob/master/site/en/r1/tutorials/sequences/recurrent_quickdraw.md#optional_download_the_full_quick_draw_data
-![image](https://user-images.githubusercontent.com/40123599/168327956-cbb8b762-4de8-4ebe-b54b-bc1dcd6c3b68.png)
+![image](https://user-images.githubusercontent.com/40123599/168328442-bdee0468-6e3a-40b7-853c-1d791d956735.png)
 
 **[Offical Tutorial - CNN network]** \
 https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e
 ![image](https://user-images.githubusercontent.com/40123599/168327805-b8be1c3c-11ae-488f-b582-8f0478137520.png)
 
-**[Other Tutorial]** \
+**[Other Tutorials]** \
 https://github.com/yining1023/doodleNet \
 https://www.kaggle.com/c/quickdraw-doodle-recognition/ \
 
