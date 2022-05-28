@@ -1,7 +1,7 @@
 # HN_Reinforcement Learning Projects
 This is a repository to record the RL projects and useful information in my self-learning path on Reinforcement Learning
  
-**Also refer to other of my AI Projects:** \
+**Also refer to my AI other Projects:** \
 HN_ML_From_Scratch:  https://github.com/Hilbert-HN/HN_ML_From_Scratch
 
 ## Toy Projects
