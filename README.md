@@ -53,7 +53,7 @@ This is a repository to record the RL projects and useful information in my self
   [Beginner's Guide to Custom Environemtns in OpenAI's Gym]\
   https://towardsdatascience.com/beginners-guide-to-custom-environments-in-openai-s-gym-989371673952
   
-  [UCL Course on RL]
+  [UCL Course on RL] \
   https://www.davidsilver.uk/teaching/
   
 ### RL Alogrithm 
