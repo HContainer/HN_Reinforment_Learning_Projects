@@ -52,11 +52,15 @@ This is a repository to record the RL projects and useful information in my self
 
   [Beginner's Guide to Custom Environemtns in OpenAI's Gym]\
   https://towardsdatascience.com/beginners-guide-to-custom-environments-in-openai-s-gym-989371673952
-
+  
+  [UCL Course on RL]
+  https://www.davidsilver.uk/teaching/
+  
 ### RL Alogrithm 
   [Reinforcement Learning Methods and Turtorials]\
   https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/
  
   [强化學習--從DQN到PPO， 流程詳解]\
   https://zhuanlan.zhihu.com/p/62225540
+
 
