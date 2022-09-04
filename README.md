@@ -27,7 +27,10 @@ This is a repository to record the RL projects and useful information in my self
 ## Concepts
   [深度強化學習 - Shusen Wang] \
   https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/%E6%B7%B1%E5%BA%A6%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92-%20Shusen%20Wang.md
-
+  
+  [UCL Course on RL] \
+  https://www.davidsilver.uk/teaching/
+  
 ## Libraries
   [Unity ML-Agents]\
   https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents.md
@@ -63,7 +66,5 @@ This is a repository to record the RL projects and useful information in my self
   [强化學習--從DQN到PPO， 流程詳解]\
   https://zhuanlan.zhihu.com/p/62225540
   
-  [UCL Course on RL] \
-  https://www.davidsilver.uk/teaching/
 
 
