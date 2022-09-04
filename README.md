@@ -59,6 +59,8 @@ This is a repository to record the RL projects and useful information in my self
   [Rendering OpenAI Gym Environments in Google Colab] \
   https://medium.com/analytics-vidhya/rendering-openai-gym-environments-in-google-colab-9df4e7d6f99f
   
+  https://github.com/AGiannoutsos/car_racer_gym
+  
 ### Learning Material
   [Reinforcement Learning Methods and Turtorials]\
   https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/
