@@ -33,14 +33,14 @@ https://unity.com/download \
 3-Install Unity Editor
 
 4-Clone the ML-Agents Toolkit Repository \
-git clone --branch release_20 https://github.com/Unity-Technologies/ml-agents.git \
+```git clone --branch release_20 https://github.com/Unity-Technologies/ml-agents.git``` \
 5-Install Unity Package (com.unity.ml-agents) by local installation \
 6-Install Unity Package (com.unity.ml-agents.extensions) (Optional for me) by local installation
 
 7-Upgrade Python to 3.8.13 to 3.10.x (You might need to setup seperate env) \
-refer to https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html \
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html \
 8-Activate installed python env \
-conda activate $myenv
+```conda activate $myenv```
 
 9-Setup Virtual Env \
 https://unity-technologies.github.io/ml-agents/Using-Virtual-Environment/ \
@@ -48,7 +48,7 @@ https://unity-technologies.github.io/ml-agents/Using-Virtual-Environment/ \
 
 11-Install PyTroch \
 https://pytorch.org/get-started/locally/ \
-12-Install mlagents Python Package
+12-Install ```mlagents``` Python Package
 
 
 
