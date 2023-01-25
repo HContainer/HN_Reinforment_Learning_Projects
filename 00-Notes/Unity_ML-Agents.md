@@ -59,11 +59,21 @@ https://unity-technologies.github.io/ml-agents/Using-Virtual-Environment/ \
 ```
 python-envs\sample-env\Scripts\activate
 ```
+Deactivate Virtual Env
+```
+python-envs\sample-env\Scripts\deactivate
+```
+
 
 **PyTorch** \
 11-Install PyTorch \
 https://pytorch.org/get-started/locally/ \
+
+**ml-agent Python Package** \
 12-Install ```mlagents``` Python Package
+```
+python -m pip install mlagents==0.30.0
+```
 
 
 ## Unity ML-Agents - Basic Tutorial
