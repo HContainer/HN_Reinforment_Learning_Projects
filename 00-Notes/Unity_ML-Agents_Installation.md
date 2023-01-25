@@ -54,10 +54,17 @@ pip3 install torch~=1.13.1 -f https://download.pytorch.org/whl/torch_stable.html
 https://pytorch.org/get-started/locally/
 
 **6 ml-agent Python Package** \
+cd to cloned repo mlagents folder
 Install ```mlagents``` Python Package
 ```
-python -m pip install mlagents==0.30.0
+cd ml-agents-envs
+pip3 install -e ./
+cd ..
+cd ml-agents
+pip3 install -e ./
 ```
+python -m pip install mlagents==0.30.0
+
 Test installation success
 ```
 mlagents-learn --help
