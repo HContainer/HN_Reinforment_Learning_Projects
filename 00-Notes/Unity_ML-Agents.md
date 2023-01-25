@@ -39,7 +39,7 @@ https://unity.com/download \
 git clone --branch release_20 https://github.com/Unity-Technologies/ml-agents.git
 ```
 5-Install Unity Package (com.unity.ml-agents) by local installation \
-6-Install Unity Package (com.unity.ml-agents.extensions) (Optional for me) by local installation
+6-Install Unity Package (com.unity.ml-agents.extensions) by local installation (Optional for myself)
 
 **Python Version** \
 7-Upgrade Python to 3.8.13 to 3.10.8 (You might need to setup seperate env) \
