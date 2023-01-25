@@ -27,29 +27,40 @@ https://unity-technologies.github.io/ml-agents/Installation/
 
 However, belows are some key steps / alternative way which work for me when I fail to follow in the step described in the offical pages
 
+**Unity** \
 1-Install Unity Hub \
 https://unity.com/download \
 2-Activate Your Unity License \
 3-Install Unity Editor
 
-4-Clone the ML-Agents Toolkit Repository \
-```git clone --branch release_20 https://github.com/Unity-Technologies/ml-agents.git``` \
+**ML-Agents Package** \
+4-Clone the ML-Agents Toolkit Repository
+```
+git clone --branch release_20 https://github.com/Unity-Technologies/ml-agents.git
+```
 5-Install Unity Package (com.unity.ml-agents) by local installation \
 6-Install Unity Package (com.unity.ml-agents.extensions) (Optional for me) by local installation
 
-7-Upgrade Python to 3.8.13 to 3.10.x (You might need to setup seperate env) \
-https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html \
-8-Activate installed python env \
-```conda activate $myenv```
+**Python Version** \
+7-Upgrade Python to 3.8.13 to 3.10.8 (You might need to setup seperate env) \
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html
+```
+conda create -n py310 python=3.10.8 anaconda
+```
+8-Activate installed python env
+```
+conda activate $myenv
+```
 
+**Virtual Env** \
 9-Setup Virtual Env \
 https://unity-technologies.github.io/ml-agents/Using-Virtual-Environment/ \
 10-Activate Virtual Env
 
-11-Install PyTroch \
+**PyTorch** \
+11-Install PyTorch \
 https://pytorch.org/get-started/locally/ \
 12-Install ```mlagents``` Python Package
-
 
 
 ## Unity ML-Agents - Basic Tutorial
