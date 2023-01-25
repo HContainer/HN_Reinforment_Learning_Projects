@@ -21,8 +21,8 @@ https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environm
 **Git-Hub - Training Configuration** \
 https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-Configuration-File.md
 
-**[Installation]** \
-([/00-Notes/Unity_ML-Agents_Installation.md](https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents_Installation.md))
+**[Installation Steps]** \
+[Unity_ML-Agents_Installation.md](https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents_Installation.md)
 
 
 ## Unity ML-Agents - Basic Tutorial
