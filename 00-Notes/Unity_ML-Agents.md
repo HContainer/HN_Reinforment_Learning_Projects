@@ -21,7 +21,7 @@ https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environm
 **Git-Hub - Training Configuration** \
 https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-Configuration-File.md
 
-## Installation Step (Window)
+## Installation Step (For Window)
 Detail Procedure shall refer to the offical documentations \
 https://unity-technologies.github.io/ml-agents/Installation/
 
@@ -70,7 +70,7 @@ python-envs\sample-env\Scripts\deactivate
 
 **5 PyTorch** \
 Install PyTorch \
-https://pytorch.org/get-started/locally/ \
+https://pytorch.org/get-started/locally/
 
 **6 ml-agent Python Package** \
 Install ```mlagents``` Python Package
