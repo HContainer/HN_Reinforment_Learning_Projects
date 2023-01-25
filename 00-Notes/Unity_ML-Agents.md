@@ -35,7 +35,7 @@ https://unity.com/download \
 
 **ML-Agents Package** \
 4-Clone the ML-Agents Toolkit Repository
-```
+```python
 git clone --branch release_20 https://github.com/Unity-Technologies/ml-agents.git
 ```
 5-Install Unity Package (com.unity.ml-agents) by local installation \
