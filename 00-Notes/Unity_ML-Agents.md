@@ -21,6 +21,10 @@ https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environm
 **Git-Hub - Training Configuration** \
 https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-Configuration-File.md
 
+**[Installation]** \
+([/00-Notes/Unity_ML-Agents_Installation.md](https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents_Installation.md))
+
+
 ## Unity ML-Agents - Basic Tutorial
 **Unity - Using Machine Learning in Unity** \
 https://www.youtube.com/watch?v=zPFU30tbyKs \
@@ -37,7 +41,6 @@ https://www.youtube.com/watch?v=HyDTboA_9pQ&list=PL6pMSU6TNEM19YvOkx2A6Tc3Shpgw9
 **How To Park A Car With Unity Machine Learning ML-Agents (Part 1)** \
 https://www.youtube.com/watch?v=IcatcC9Rikk&list=PL6pMSU6TNEM19YvOkx2A6Tc3Shpgw9-Nc&index=5&t=377s \
 ![image](https://user-images.githubusercontent.com/40123599/165357644-7b5364d7-c28a-4fb2-992f-cdd829a0869c.png)
-
 
 ## How to make RL faster
 **Training your agents 7 times faster with ML-Agents** \
