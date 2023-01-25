@@ -48,10 +48,8 @@ python-envs\sample-env\Scripts\deactivate
 **5 PyTorch** \
 Install PyTorch (Check for latest version) \
 ```
-pip3 install torch~=1.13.1 -f https://download.pytorch.org/whl/torch_stable.html
+pip3 install torch -f https://download.pytorch.org/whl/torch_stable.html
 ```
-
-https://pytorch.org/get-started/locally/
 
 **6 ml-agent Python Package** \
 cd to cloned repo mlagents folder
@@ -63,7 +61,6 @@ cd ..
 cd ml-agents
 pip3 install -e ./
 ```
-python -m pip install mlagents==0.30.0
 
 Test installation success
 ```
