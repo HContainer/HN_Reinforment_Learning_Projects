@@ -49,13 +49,16 @@ conda create -n py310 python=3.10.8 anaconda
 ```
 8-Activate installed python env
 ```
-conda activate $myenv
+conda activate py310
 ```
 
 **Virtual Env** \
 9-Setup Virtual Env \
 https://unity-technologies.github.io/ml-agents/Using-Virtual-Environment/ \
 10-Activate Virtual Env
+```
+python-envs\sample-env\Scripts\activate
+```
 
 **PyTorch** \
 11-Install PyTorch \
