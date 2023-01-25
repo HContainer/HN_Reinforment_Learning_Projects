@@ -36,7 +36,7 @@ This is a repository to record the RL projects and useful information in my self
   https://github.com/Hilbert-HN/HN_Reinforcement_Learning_Projects/blob/master/00-Notes/Unity_ML-Agents.md
 
   [OpenAI-Gym]\
-  https://gym.openai.com/docs/ 
+  https://gymnasium.farama.org/
 
   [OpenAI-Algorithms-Spinning Up] \
   https://spinningup.openai.com/en/latest/user/introduction.html 
