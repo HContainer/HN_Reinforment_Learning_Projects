@@ -27,54 +27,60 @@ https://unity-technologies.github.io/ml-agents/Installation/
 
 However, belows are some key steps / alternative way which work for me when I fail to follow in the step described in the offical pages
 
-**Unity** \
-1-Install Unity Hub \
+**1 Unity** \
+Install Unity Hub \
 https://unity.com/download \
-2-Activate Your Unity License \
-3-Install Unity Editor
+Activate Your Unity License \
+Install Unity Editor
 
-**ML-Agents Package** \
-4-Clone the ML-Agents Toolkit Repository
+**2 ML-Agents Package** \
+Clone the ML-Agents Toolkit Repository
 ```
 git clone --branch release_20 https://github.com/Unity-Technologies/ml-agents.git
 ```
-5-Install Unity Package (com.unity.ml-agents) by local installation \
-6-Install Unity Package (com.unity.ml-agents.extensions) by local installation (Optional for myself)
+Install Unity Package (com.unity.ml-agents) by local installation \
+Install Unity Package (com.unity.ml-agents.extensions) by local installation (Optional for myself)
 
-**Python Version** \
-7-Upgrade Python to 3.8.13 to 3.10.8 (You might need to setup seperate env) \
+**3 Python Version** \
+Upgrade Python to 3.8.13 to 3.10.8 (You might need to setup seperate env) \
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html
 ```
 conda create -n py310 python=3.10.8 anaconda
 ```
-8-Activate installed python env
+Activate installed python env
 ```
 conda activate py310
 ```
+*Deactivate python env
+```
+conda deactivate
+```
 
-**Virtual Env** \
-9-Setup Virtual Env \
+**4 Virtual Env** \
+Setup Virtual Env \
 https://unity-technologies.github.io/ml-agents/Using-Virtual-Environment/ \
-10-Activate Virtual Env
+Activate Virtual Env
 ```
 python-envs\sample-env\Scripts\activate
 ```
-Deactivate Virtual Env
+*Deactivate Virtual Env
 ```
 python-envs\sample-env\Scripts\deactivate
 ```
 
-
-**PyTorch** \
-11-Install PyTorch \
+**5 PyTorch** \
+Install PyTorch \
 https://pytorch.org/get-started/locally/ \
 
-**ml-agent Python Package** \
-12-Install ```mlagents``` Python Package
+**6 ml-agent Python Package** \
+Install ```mlagents``` Python Package
 ```
 python -m pip install mlagents==0.30.0
 ```
-
+Test installation success
+```
+mlagents-learn --help
+```
 
 ## Unity ML-Agents - Basic Tutorial
 **Unity - Using Machine Learning in Unity** \
