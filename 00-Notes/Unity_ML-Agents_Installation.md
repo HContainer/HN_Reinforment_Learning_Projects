@@ -36,6 +36,10 @@ conda deactivate
 **4 Virtual Env** \
 Setup Virtual Env \
 https://unity-technologies.github.io/ml-agents/Using-Virtual-Environment/ \
+```
+md python-envs
+python -m venv python-envs\sample-env
+```
 Activate Virtual Env
 ```
 python-envs\sample-env\Scripts\activate
