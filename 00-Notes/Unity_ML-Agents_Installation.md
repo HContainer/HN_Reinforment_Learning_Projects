@@ -74,7 +74,7 @@ cd ml-agents
 pip3 install -e ./
 ```
 
-Test installation success
+**7 Test installation success**
 ```
 mlagents-learn --help
 ```
