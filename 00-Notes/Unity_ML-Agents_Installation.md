@@ -20,13 +20,14 @@ Install Unity Package (com.unity.ml-agents.extensions) by local installation (Op
 
 **3 Python Version** \
 Upgrade Python to 3.8.13 to 3.10.8 (You might need to setup seperate env) \
+I use Python 3.9, since I face some library issue while installing mlagent python package
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html
 ```
-conda create -n py310 python=3.10.8 anaconda
+conda create -n py39 python=3.9 anaconda
 ```
 Activate installed python env
 ```
-conda activate py310
+conda activate py39
 ```
 *Deactivate python env
 ```
