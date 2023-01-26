@@ -64,8 +64,11 @@ pip3 install torch -f https://download.pytorch.org/whl/torch_stable.html
 cd to cloned repo mlagents folder
 Install ```mlagents``` Python Package
 ```
+cd ml-agents
 cd ml-agents-envs
 pip3 install -e ./
+```
+```
 cd ..
 cd ml-agents
 pip3 install -e ./
