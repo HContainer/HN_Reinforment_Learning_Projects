@@ -75,3 +75,6 @@ Test installation success
 ```
 mlagents-learn --help
 ```
+```
+mlagents-learn --ENV_Path
+```
