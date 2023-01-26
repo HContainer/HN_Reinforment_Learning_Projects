@@ -79,5 +79,5 @@ pip3 install -e ./
 mlagents-learn --help
 ```
 ```
-mlagents-learn --ENV_Path
+mlagents-learn --env ENV_Path
 ```
