@@ -40,10 +40,6 @@ https://unity-technologies.github.io/ml-agents/Using-Virtual-Environment/ \
 md python-envs
 python -m venv python-envs\sample-env
 ```
-Update pip
-```
-python.exe -m pip install --upgrade pip
-```
 Activate Virtual Env
 ```
 python-envs\sample-env\Scripts\activate
@@ -51,6 +47,10 @@ python-envs\sample-env\Scripts\activate
 *Deactivate Virtual Env
 ```
 python-envs\sample-env\Scripts\deactivate
+```
+Update pip
+```
+python.exe -m pip install --upgrade pip
 ```
 
 **5 PyTorch** \
