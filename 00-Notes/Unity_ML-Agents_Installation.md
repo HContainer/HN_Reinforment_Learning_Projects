@@ -81,3 +81,12 @@ mlagents-learn --help
 ```
 mlagents-learn --env ENV_Path
 ```
+
+**8 Install Tensorflow**
+```
+pip install tensorflow
+```
+Check installation success
+```
+pip show tensorflow
+```
