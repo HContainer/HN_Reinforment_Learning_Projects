@@ -5,6 +5,7 @@
 | Complicated Plantroom Coordination....:fearful:|
 | :------------------ |
 |![](Image/0-Real_Plant_Room.jpg)|
+| Spend hours for Engineers to Design & Coordinate the Services |
 |![](Image/0-Complicated_Plantroom.jpg)|
 
 
