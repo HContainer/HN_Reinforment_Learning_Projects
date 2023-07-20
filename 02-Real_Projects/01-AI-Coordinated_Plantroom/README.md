@@ -4,6 +4,7 @@
 
 | Complicated Plantroom Coordination....:fearful:|
 | :------------------ |
+|![](Image/0-Real_Plant_Room.jpg)|
 |![](Image/0-Complicated_Plantroom.jpg)|
 
 
